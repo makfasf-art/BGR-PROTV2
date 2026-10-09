@@ -1,0 +1,6 @@
+{
+  "name": "BOT GENERATOR",
+  "description": "Bot Generator and Configurator for WhatsApp, Discord, and Telegram with 350 customizable features, real-time preview, project manager, and built-in music player by BGR PRJCT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
